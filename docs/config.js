@@ -1,0 +1,1 @@
+const CONFIG_BACKEND_URL = 'https://poop-socks-gim.herokuapp.com/'
